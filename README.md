@@ -87,8 +87,73 @@ Mean      0.8473     47.5851  36.2458 36.1088
 STD Dev   0.0032     0.4550   0.2572   29.0638 
 
 INTERPRETATION OF LINEAR REGRESSION RESULTS 
-
 The average R² Score from Cross Validation of the Linear Regression model is 0.8473, and the Standard Deviation between the R² values is 0.0032. 
 The R² Score from Testing is 0.8467. 
+
+--
+Reproducability
+
+
+Python 3.10+
+
+Libraries:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+umap-learn
+hdbscan
+geopandas
+folium
+
+https://github.com/SheChemEngg/EV_Washington
+
+-- 
+Ethics
+
+Bias:
+Income & population dominate predictions may reinforce socioeconomic bias.
+
+Data Leakage Risks:
+Year/Make/Model could leak future trends if not split chronologically.
+
+Limitations:
+
+Manual MSRP/Range data may contain inaccuracies
+
+Tax credit data incomplete for older vehicles
+
+Clusters depend strongly on HDBSCAN parameter choices
+
+Interpretability Challenges:
+UMAP embeddings are nonlinear and not always human interpretable
+
+--
+
+Contributions
+
+Jesse Mazariegos
+Linear Regression modeling
+
+EDA visualizations
+
+Random Forest model implementation
+Report writing & organization
+README preparation
+Visual analysis & conclusions
+
+
+Sheena Knott
+
+PCA/UMAP/HDBSCAN pipeline
+Data merging & cleaning
+Manual MSRP & Range data collection
+Report writing & organization
+Statistical interpretation
+
+Visual analysis & conclusions
+
+(Both contributed to feature engineering, validation, and project documentation.)
 
 

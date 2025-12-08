@@ -1,0 +1,656 @@
+Model,Base Price,Dest. Charge,Tax Credit,Effective Price,EPA range (miles)
+2021 MINI Cooper SE,"$29,900 ",$850 ,"$7,500 ","$23,250 ",110.0
+2021 Nissan LEAF S (40 kWh),"$31,670 ",$950 ,"$7,500 ","$25,120 ",149.0
+2021 Hyundai IONIQ Electric,"$33,245 ","$1,005 ","$7,500 ","$26,750 ",170.0
+2021 Hyundai Kona Electric,"$37,390 ","$1,175 ","$7,500 ","$31,065 ",258.0
+2021 Nissan LEAF e+ S (62 kWh),"$38,270 ",$950 ,"$7,500 ","$31,720 ",226.0
+2022 Chevrolet Bolt EV,"$31,000 ",$995 ,,"$31,995 ",259.0
+2020 Kia Niro EV (e-Niro),"$39,090 ","$1,120 ","$7,500 ","$32,710 ",239.0
+2021 Volkswagen ID.4 Pro S,"$39,995 ",$920 ,"$7,500 ","$33,415 ",250.0
+2021 Nissan LEAF e+ SV/SL (62 kWh),"$40,520 ",$950 ,"$7,500 ","$33,970 ",215.0
+2022 Chevrolet Bolt EUV,"$33,000 ",$995 ,,"$33,995 ",250.0
+2021 Ford Mustang Mach-E Select SR RWD,"$42,895 ","$1,100 ","$7,500 ","$36,495 ",230.0
+2021 Chevrolet Bolt EV,"$36,500 ",$995 ,,"$37,495 ",259.0
+2021 BMW i3,"$44,450 ",$995 ,"$7,500 ","$37,945 ",153.0
+2021 Tesla Model 3 Standard Range Plus,"$36,990 ","$1,200 ",,"$38,190 ",263.0
+2021 Ford Mustang Mach-E Select SR AWD,"$45,595 ","$1,100 ","$7,500 ","$39,195 ",211.0
+2021 BMW i3s,"$47,650 ",$995 ,"$7,500 ","$41,145 ",153.0
+2021 Ford Mustang Mach-E Route 1 ER RWD,"$49,800 ","$1,100 ","$7,500 ","$43,400 ",305.0
+2021 Ford Mustang Mach-E Premium ER RWD,"$52,000 ","$1,100 ","$7,500 ","$45,600 ",300.0
+2021 Tesla Model 3 Long Range AWD,"$45,990 ","$1,200 ",,"$47,190 ",353.0
+2021 Volvo XC40 Recharge,"$53,990 ",$995 ,"$7,500 ","$47,485 ",208.0
+2021 Ford Mustang Mach-E Premium ER AWD,"$54,700 ","$1,100 ","$7,500 ","$48,300 ",270.0
+"2021 Tesla Model Y Long Range AWD 19""","$48,990 ","$1,200 ",,"$50,190 ",326.0
+2021 Polestar 2,"$59,900 ","$1,300 ","$7,500 ","$53,700 ",233.0
+2021 Ford Mustang Mach-E GT ER AWD,"$60,500*","$1,100 ","$7,500 ","$54,100 ",250.0
+"2021 Tesla Model 3 Perf. LR AWD 20""","$55,990 ","$1,200 ",,"$57,190 ",315.0
+2021 Audi e-tron,"$65,900 ","$1,095 ","$7,500 ","$59,495 ",222.0
+"2021 Tesla Model Y Perf. LR AWD 21""","$60,990 ","$1,200 ",,"$62,190 ",303.0
+2021 Audi e-tron Sportback,"$69,100 ","$1,045 ","$7,500 ","$62,645 ",218.0
+2020 Jaguar I-PACE,"$69,850 ","$1,025 ","$7,500 ","$63,375 ",234.0
+2021 Porsche Taycan (79 kWh),"$79,900 ","$1,350 ","$7,500 ","$73,750 ",
+2021 Porsche Taycan (93 kWh),"$85,680 ","$1,350 ","$7,500 ","$79,530 ",
+"2021 Tesla Model S Long Range (AWD) 19""","$79,990 ","$1,200 ",,"$81,190 ",412.0
+"2021 Tesla Model X Long Range (AWD) 20""","$89,990 ","$1,200 ",,"$91,190 ",360.0
+2021 Porsche Taycan 4S (79 kWh),"$103,800 ","$1,350 ","$7,500 ","$97,650 ",199.0
+2021 Porsche Taycan 4S (93 kWh),"$109,370 ","$1,350 ","$7,500 ","$103,220 ",227.0
+"2021 Tesla Model S Plaid 19""","$119,990 ","$1,200 ",,"$121,190 ",340.0
+"2021 Tesla Model X Plaid 20""","$119,990 ","$1,200 ",,"$121,190 ",390.0
+"2021 Tesla Model S Plaid+ 19""","$139,990 ","$1,200 ",,"$141,190 ",520.0
+2021 Porsche Taycan Turbo (93 kWh),"$150,900 ","$1,350 ","$7,500 ","$144,750 ",212.0
+2021 Porsche Taycan Turbo S (93 kWh),"$185,000 ","$1,350 ","$7,500 ","$178,850 ",201.0
+2022 Nissan LEAF S (40 kWh),"$27,400 ",$975 ,"$7,500 ","$20,875 ",149.0
+2022 MINI Cooper SE,"$29,900 ",$850 ,"$7,500 ","$23,250 ",114.0
+2022 Nissan LEAF e+ S (62 kWh),"$32,400 ",$975 ,"$7,500 ","$25,875 ",226.0
+2022 Mazda MX-30,"$33,470 ","$1,175 ","$7,500 ","$27,145 ",100.0
+2022 Hyundai Kona Electric,"$34,000 ","$1,185 ","$7,500 ","$27,685 ",258.0
+2022 Nissan LEAF e+ SV (62 kWh),"$37,400 ",$975 ,"$7,500 ","$30,875 ",215.0
+2022 Kia Niro EV (e-Niro),"$39,990 ","$1,175 ","$7,500 ","$33,665 ",239.0
+2021 Volkswagen ID.4 Pro,"$39,995 ","$1,195 ","$7,500 ","$33,690 ",260.0
+2022 Chevrolet Bolt EUV,"$33,000 ",$995 ,,"$33,995 ",247.0
+2021 Volkswagen ID.4 AWD Pro,"$43,675 ","$1,195 ","$7,500 ","$37,370 ",249.0
+2021 Volkswagen ID.4 Pro S,"$44,495 ","$1,195 ","$7,500 ","$38,190 ",250.0
+"2022 Polestar 2 Single Motor 19""","$45,900 ","$1,300 ","$7,500 ","$39,700 ",265.0
+2021 Tesla Model 3 Standard Range Plus,"$39,990 ","$1,200 ",,"$41,190 ",263.0
+2021 Volkswagen ID.4 AWD Pro S,"$48,175 ","$1,195 ","$7,500 ","$41,870 ",240.0
+"2022 Polestar 2 Dual Motor 19""","$49,900 ","$1,300 ","$7,500 ","$43,700 ",249.0
+2021 Ford Mustang Mach-E Route 1 ER RWD,"$50,400 ","$1,100 ","$7,500 ","$44,000 ",305.0
+2021 Ford Mustang Mach-E Premium ER RWD,"$52,600 ","$1,100 ","$7,500 ","$46,200 ",300.0
+2022 Volvo XC40 Recharge,"$55,300 ","$1,095 ","$7,500 ","$48,895 ",223.0
+2021 Ford Mustang Mach-E Premium ER AWD,"$55,300 ","$1,100 ","$7,500 ","$48,900 ",270.0
+2021 Tesla Model 3 Long Range AWD,"$49,990 ","$1,200 ",,"$51,190 ",353.0
+2022 Volvo C40 Recharge,"$58,750 ","$1,095 ","$7,500 ","$52,345 ",210.0
+2021 Ford Mustang Mach-E GT ER AWD,"$59,900 ","$1,100 ","$7,500 ","$53,500 ",270.0
+"2021 Tesla Model Y Long Range AWD 19""","$53,990 ","$1,200 ",,"$55,190 ",326.0
+"2021 Tesla Model 3 Perf. LR AWD 20""","$56,990 ","$1,200 ",,"$58,190 ",315.0
+2021 Ford Mustang Mach-E GT Perf. ER AWD,"$64,900 ","$1,100 ","$7,500 ","$58,500 ",260.0
+"2022 Rivian R1T (Large pack, 21"")","$67,500*",,"$7,500 ","$60,000 ",314.0
+"2022 Rivian R1S (Large pack, 21"")","$70,000*",,"$7,500 ","$62,500 ",316.0
+2021 Audi e-tron Sportback,"$69,100 ","$1,095 ","$7,500 ","$62,695 ",218.0
+2022 Jaguar I-PACE EV400,"$69,900 ","$1,150 ","$7,500 ","$63,550 ",234.0
+"2022 Rivian R1T (Max pack, 21"")","$77,500*",,"$7,500 ","$70,000 ",400.0
+2021 Porsche Taycan (79 kWh),"$79,900 ","$1,350 ","$7,500 ","$73,750 ",200.0
+"2022 Audi e-tron S 20""","$84,800 ","$1,095 ","$7,500 ","$78,395 ",208.0
+2021 Porsche Taycan (93 kWh),"$85,680 ","$1,350 ","$7,500 ","$79,530 ",225.0
+"2022 Audi e-tron S Sportback 20""","$87,400 ","$1,095 ","$7,500 ","$80,995 ",212.0
+2021 Porsche Taycan 4 Cross Turismo,"$90,900 ","$1,350 ","$7,500 ","$84,750 ",215.0
+"2021 Tesla Model S Long Range (AWD) 19""","$89,990 ","$1,200 ",,"$91,190 ",405.0
+2022 Audi e-tron GT quattro,"$99,900 ","$1,045 ","$7,500 ","$93,445 ",238.0
+"2021 Tesla Model X Long Range (AWD) 20""","$99,990 ","$1,200 ",,"$101,190 ",360.0
+2021 Porsche Taycan 4S Cross Turismo,"$110,300 ","$1,350 ","$7,500 ","$104,150 ",215.0
+"2021 Tesla Model X Plaid 20""","$119,990 ","$1,200 ",,"$121,190 ",340.0
+"2021 Tesla Model S Plaid 19""","$129,990 ","$1,200 ",,"$131,190 ",396.0
+"2022 Lucid Air Grand Touring (21"")","$139,000 ","$1,500 ","$7,500 ","$133,000 ",469.0
+"2022 Lucid Air Grand Touring (19"")","$139,000 ","$1,500 ","$7,500 ","$133,000 ",516.0
+2022 Audi RS e-tron GT quattro,"$139,900 ","$1,045 ","$7,500 ","$133,445 ",232.0
+"2021 Tesla Model S Plaid 21""","$134,490 ","$1,200 ",,"$135,690 ",348.0
+2021 Porsche Taycan Turbo Cross Turismo,"$153,500 ","$1,350 ","$7,500 ","$147,350 ",204.0
+"2022 Lucid Air Dream Edition Performance (21"")","$169,000 ","$1,500 ","$7,500 ","$163,000 ",451.0
+"2022 Lucid Air Dream Edition Performance (19"")","$169,000 ","$1,500 ","$7,500 ","$163,000 ",471.0
+"2022 Lucid Air Dream Edition Range (21"")","$169,000 ","$1,500 ","$7,500 ","$163,000 ",481.0
+"2022 Lucid Air Dream Edition Range (19"")","$169,000 ","$1,500 ","$7,500 ","$163,000 ",520.0
+2021 Porsche Taycan Turbo S Cross Turismo,"$187,600 ","$1,350 ","$7,500 ","$181,450 ",202.0
+2023 Fisker Ocean Sport FWD (estimated shipping fee),"$24,999 ","$3,125 ",$0 ,"$28,124 ",231.0
+2025 Nissan Leaf S,"$28,140 ","$1,140 ",$0 ,"$29,280 ",149.0
+2024 Volkswagen ID.4 Standard,"$39,735 ","$1,425 ","$7,500 ","$33,660 ",206.0
+2024 Fiat 500e RED,"$32,500 ","$1,595 ",$0 ,"$34,095 ",149.0
+2025 Hyundai Kona Electric SE,"$32,875 ","$1,395 ",$0 ,"$34,270 ",200.0
+2024 Tesla Model 3 Long Range RWD,"$42,490 ","$1,390 ","$7,500 ","$36,380 ",363.0
+2024 Chevrolet Equinox EV 2LT FWD,"$43,295 ","$1,395 ","$7,500 ","$37,190 ",319.0
+2025 Nissan Leaf SV Plus,"$36,190 ","$1,140 ",$0 ,"$37,330 ",212.0
+2023 Fisker Ocean Ultra AWD (estimated shipping fee),"$34,999 ","$3,125 ",$0 ,"$38,124 ",350.0
+2025 Hyundai Kona Electric SEL,"$36,875 ","$1,395 ",$0 ,"$38,270 ",261.0
+2024 Hyundai Ioniq 6 SE Standard Range RWD,"$37,500 ","$1,150 ",$0 ,"$38,650 ",240.0
+2024 Chevrolet Equinox EV 2RS FWD,"$44,795 ","$1,395 ","$7,500 ","$38,690 ",319.0
+2024 Volkswagen ID.4 S,"$44,855 ","$1,425 ","$7,500 ","$38,780 ",206.0
+2024 Volkswagen ID.4 Pro,"$44,875 ","$1,425 ","$7,500 ","$38,800 ",291.0
+2024 Tesla Model Y Long Range RWD,"$44,990 ","$1,390 ","$7,500 ","$38,880 ",320.0
+2024 Chevrolet Equinox EV 3LT FWD,"$45,295 ","$1,395 ","$7,500 ","$39,190 ",319.0
+2025 Hyundai Kona Electric N-Line,"$38,275 ","$1,395 ",$0 ,"$39,670 ",230.0
+2024 Tesla Model 3 RWD,"$38,990 ","$1,390 ",$0 ,"$40,380 ",272.0
+2024 Chevrolet Equinox EV 2LT AWD,"$46,595 ","$1,395 ","$7,500 ","$40,490 ",285.0
+2023 Fisker Ocean Extreme AWD (estimated shipping fee),"$37,499 ","$3,125 ",$0 ,"$40,624 ",360.0
+2024 Chevrolet Equinox EV 3RS FWD,"$46,795 ","$1,395 ","$7,500 ","$40,690 ",319.0
+2024 Nissan Ariya Engage FWD,"$39,590 ","$1,140 ",$0 ,"$40,730 ",216.0
+2024 Kia Niro EV Wind,"$39,600 ","$1,375 ",$0 ,"$40,975 ",253.0
+2024 Honda Prologue EX RWD,"$47,400 ","$1,395 ","$7,500 ","$41,295 ",296.0
+2024 Tesla Model 3 Long Range AWD,"$47,490 ","$1,390 ","$7,500 ","$41,380 ",341.0
+2025 Chevrolet Blazer EV LT AWD,"$47,600 ","$1,395 ","$7,500 ","$41,495 ",283.0
+2024 Tesla Model Y Long Range AWD,"$47,990 ","$1,390 ","$7,500 ","$41,880 ",308.0
+2024 Ford Mustang Mach-E Select RWD 72 kWh,"$39,995 ","$1,995 ",$0 ,"$41,990 ",250.0
+2024 Chevrolet Equinox EV 2RS AWD,"$48,095 ","$1,395 ","$7,500 ","$41,990 ",285.0
+2024 Nissan Ariya Venture+ FWD,"$41,190 ","$1,140 ",$0 ,"$42,330 ",304.0
+2025 Hyundai Kona Electric Limited,"$41,050 ","$1,395 ",$0 ,"$42,445 ",261.0
+2024 Chevrolet Equinox EV 3LT AWD,"$48,595 ","$1,395 ","$7,500 ","$42,490 ",285.0
+2024 Volkswagen ID.4 AWD Pro,"$48,755 ","$1,425 ","$7,500 ","$42,680 ",263.0
+2024 Chevrolet Blazer EV LT AWD,"$48,800 ","$1,395 ","$7,500 ","$42,695 ",279.0
+2024 Hyundai Ioniq 5 SE Standard Range RWD,"$41,800 ","$1,395 ",$0 ,"$43,195 ",220.0
+2024 Hyundai Ioniq 6 SE RWD,"$42,450 ","$1,150 ",$0 ,"$43,600 ",361.0
+2024 Volkswagen ID.4 Pro S,"$49,995 ","$1,425 ","$7,500 ","$43,920 ",291.0
+2024 Kia EV6 Light RWD,"$42,600 ","$1,375 ",$0 ,"$43,975 ",232.0
+2024 Chevrolet Equinox EV 3RS AWD,"$50,095 ","$1,395 ","$7,500 ","$43,990 ",285.0
+2024 Honda Prologue EX AWD,"$50,400 ","$1,395 ","$7,500 ","$44,295 ",281.0
+2024 Toyota bZ4X XLE FWD,"$43,070 ","$1,395 ",$0 ,"$44,465 ",252.0
+2024 Nissan Ariya Engage e-4ORCE AWD,"$43,590 ","$1,140 ",$0 ,"$44,730 ",205.0
+2024 Nissan Ariya Evolve+ FWD,"$44,190 ","$1,140 ",$0 ,"$45,330 ",289.0
+2024 Tesla Model Y Performance AWD,"$51,490 ","$1,390 ","$7,500 ","$45,380 ",279.0
+2024 Ford Mustang Mach-E Select AWD 72 kWh,"$43,495 ","$1,995 ",$0 ,"$45,490 ",230.0
+2024 Honda Prologue Touring RWD,"$51,700 ","$1,395 ","$7,500 ","$45,595 ",296.0
+2024 Kia Niro EV Wave,"$44,600 ","$1,375 ",$0 ,"$45,975 ",253.0
+2024 Ford Mustang Mach-E Premium RWD 72 kWh,"$43,995 ","$1,995 ",$0 ,"$45,990 ",250.0
+2024 VinFast VF8 Eco,"$46,000 ",$0 ,$0 ,"$46,000 ",264.0
+2024 Mini Countryman SE ALL4 18-inch,"$45,200 ",$995 ,$0 ,"$46,195 ",212.0
+2024 Nissan Ariya Engage+ e-4ORCE AWD,"$45,190 ","$1,140 ",$0 ,"$46,330 ",272.0
+2024 Subaru Solterra Premium,"$44,995 ","$1,345 ",$0 ,"$46,340 ",227.0
+2024 Hyundai Ioniq 6 SEL RWD,"$45,250 ","$1,150 ",$0 ,"$46,400 ",305.0
+2024 Toyota bZ4X XLE AWD,"$45,150 ","$1,395 ",$0 ,"$46,545 ",228.0
+2024 Mini Countryman SE ALL4 19-inch,"$45,800 ",$995 ,$0 ,"$46,795 ",204.0
+2025 Chevrolet Blazer EV RS AWD,"$52,900 ","$1,395 ","$7,500 ","$46,795 ",283.0
+2025 Cadillac Optiq Luxury 1 AWD (estimated range),"$52,895 ","$1,495 ","$7,500 ","$46,890 ",300.0
+2024 Chevrolet Blazer EV RS AWD,"$53,200 ","$1,395 ","$7,500 ","$47,095 ",279.0
+2024 Hyundai Ioniq 6 SE AWD,"$45,950 ","$1,150 ",$0 ,"$47,100 ",316.0
+2024 Hyundai Ioniq 5 SE RWD,"$45,850 ","$1,395 ",$0 ,"$47,245 ",303.0
+2024 Kia EV6 Light Long Range RWD,"$45,950 ","$1,375 ",$0 ,"$47,325 ",310.0
+2025 Cadillac Optiq Sport 1 AWD (estimated range),"$53,495 ","$1,495 ","$7,500 ","$47,490 ",300.0
+2024 Volkswagen ID.4 AWD Pro S,"$53,875 ","$1,425 ","$7,500 ","$47,800 ",263.0
+2024 Chevrolet Blazer EV RS RWD,"$54,200 ","$1,395 ","$7,500 ","$48,095 ",324.0
+2024 Toyota bZ4X Limited FWD,"$47,180 ","$1,395 ",$0 ,"$48,575 ",236.0
+2024 Honda Prologue Touring AWD,"$54,700 ","$1,395 ","$7,500 ","$48,595 ",281.0
+2024 Hyundai Ioniq 5 SEL RWD,"$47,400 ","$1,395 ",$0 ,"$48,795 ",303.0
+2024 Nissan Ariya Empower+ FWD,"$47,690 ","$1,140 ",$0 ,"$48,830 ",289.0
+2024 Tesla Model 3 Performance AWD,"$54,990 ","$1,390 ","$7,500 ","$48,880 ",303.0
+2024 Ford Mustang Mach-E Select AWD 91 kWh,"$46,995 ","$1,995 ",$0 ,"$48,990 ",400.0
+2024 Ford Mustang Mach-E Premium AWD 72 kWh,"$46,995 ","$1,995 ",$0 ,"$48,990 ",230.0
+2024 Ford Mustang Mach-E Premium RWD 91 kWh,"$46,995 ","$1,995 ",$0 ,"$48,990 ",320.0
+2025 Cadillac Optiq Luxury 2 AWD (estimated range),"$55,095 ","$1,495 ","$7,500 ","$49,090 ",300.0
+2024 Nissan Ariya Evolve+ e-4ORCE AWD,"$48,190 ","$1,140 ",$0 ,"$49,330 ",272.0
+2025 Cadillac Optiq Sport 2 AWD (estimated range),"$55,595 ","$1,495 ","$7,500 ","$49,590 ",300.0
+2024 Subaru Solterra Limited,"$48,495 ","$1,345 ",$0 ,"$49,840 ",222.0
+2024 Hyundai Ioniq 6 SEL AWD,"$48,750 ","$1,150 ",$0 ,"$49,900 ",270.0
+2024 Kia EV6 Wind RWD,"$48,700 ","$1,375 ",$0 ,"$50,075 ",310.0
+2024 Toyota bZ4x Limited AWD,"$49,260 ","$1,395 ",$0 ,"$50,655 ",222.0
+2024 Hyundai Ioniq 5 SE AWD,"$49,350 ","$1,395 ",$0 ,"$50,745 ",260.0
+2024 Kia EV6 Light Long Range AWD,"$49,850 ","$1,375 ",$0 ,"$51,225 ",282.0
+2024 Hyundai Ioniq 6 Limited RWD,"$50,150 ","$1,150 ",$0 ,"$51,300 ",305.0
+2025 Polestar 2 Long Range Single Motor RWD,"$49,900 ","$1,400 ",$0 ,"$51,300 ",320.0
+2024 Honda Prologue Elite AWD,"$57,900 ","$1,395 ","$7,500 ","$51,795 ",273.0
+2024 VinFast VF8 Plus,"$51,800 ",$0 ,$0 ,"$51,800 ",243.0
+2024 Ford Mustang Mach-E Premium AWD 91 kWh,"$49,995 ","$1,995 ",$0 ,"$51,990 ",300.0
+2024 Hyundai Ioniq 5 SEL AWD,"$50,900 ","$1,395 ",$0 ,"$52,295 ",260.0
+2024 Cadillac Lyriq Tech RWD,"$58,590 ","$1,395 ","$7,500 ","$52,485 ",314.0
+2024 Ford E-Transit Cutaway,"$51,095 ","$2,095 ",$0 ,"$53,190 ",
+2024 Subary Solterra Touring,"$51,995 ","$1,345 ",$0 ,"$53,340 ",222.0
+2024 BMW i4 eDrive35 Gran Croupe,"$52,200 ","$1,175 ",$0 ,"$53,375 ",276.0
+2025 Genesis GV60 Standard RWD,"$52,350 ","$1,250 ",$0 ,"$53,600 ",294.0
+2024 Ford E-Transit Chassis Cab,"$51,595 ","$2,095 ",$0 ,"$53,690 ",
+2024 Volvo EX40 (XC40 Recharge) Core RWD,"$52,450 ","$1,295 ",$0 ,"$53,745 ",293.0
+2024 Kia EV6 Wind AWD,"$52,600 ","$1,375 ",$0 ,"$53,975 ",282.0
+2024 Mercedes-Benz EQB 250+,"$53,050 ","$1,150 ",$0 ,"$54,200 ",251.0
+2024 Kia EV6 GT-Line RWD,"$52,900 ","$1,375 ",$0 ,"$54,275 ",310.0
+2024 Hyundai Ioniq 6 Limited AWD,"$53,450 ","$1,150 ",$0 ,"$54,600 ",270.0
+2024 Hyundai Ioniq 5 Limited RWD,"$53,500 ","$1,395 ",$0 ,"$54,895 ",303.0
+2024 Volvo EC40 (C40 Recharge) Core RWD,"$53,600 ","$1,295 ",$0 ,"$54,895 ",297.0
+2024 Lexus RZ 300e Premium FWD,"$54,000 ","$1,175 ",$0 ,"$55,175 ",266.0
+2024 Nissan Ariya Platinum+ e-4ORCE AWD,"$54,190 ","$1,140 ",$0 ,"$55,330 ",267.0
+2024 Nissan Ariya Platinum+ e-4ORCE AWD 20-inch,"$54,190 ","$1,140 ",$0 ,"$55,330 ",257.0
+2024 Volvo EX40 (XC40 Recharge) Core AWD,"$54,200 ","$1,295 ",$0 ,"$55,495 ",254.0
+2024 Cadillac Lyriq Tech AWD,"$62,090 ","$1,395 ","$7,500 ","$55,985 ",307.0
+2025 Poelstar 4 Long Range Single Motor RWD,"$54,900 ","$1,400 ",$0 ,"$56,300 ",300.0
+2024 Audi Q4 55 e-tron Premium AWD,"$55,200 ","$1,195 ",$0 ,"$56,395 ",258.0
+2024 Kia EV9 Light RWD,"$54,900 ","$1,495 ",$0 ,"$56,395 ",230.0
+2024 Cadillac Lyriq Luxury 1 RWD,"$62,690 ","$1,395 ","$7,500 ","$56,585 ",314.0
+2024 Volvo EC40 (C40 Recharge) Core AWD,"$55,350 ","$1,295 ",$0 ,"$56,645 ",257.0
+2024 Volvo EX40 (XC40 Recharge) Plus RWD,"$55,400 ","$1,295 ",$0 ,"$56,695 ",293.0
+2024 Volvo EC40 (C40 Recharge) Plus RWD,"$55,400 ","$1,295 ",$0 ,"$56,695 ",297.0
+2025 Polestar 2 Long Range Dual Motor AWD,"$55,300 ","$1,400 ",$0 ,"$56,700 ",276.0
+2024 Ford Mustang Mach-E GT AWD 91 kWh,"$54,995 ","$1,995 ",$0 ,"$56,990 ",280.0
+2024 Cadillac Lyriq Sport 1 RWD,"$63,190 ","$1,395 ","$7,500 ","$57,085 ",314.0
+2025 Genesis GV60 Standard RWD Plus,"$55,850 ","$1,250 ",$0 ,"$57,100 ",264.0
+2024 F-150 Lightning XLT 4X4 98 kWh,"$62,995 ","$2,095 ","$7,500 ","$57,590 ",240.0
+2024 Mercedes-Benz EQB 300 4Matic,"$57,200 ","$1,150 ",$0 ,"$58,350 ",205.0
+2024 Acura ZDX A-Spec RWD,"$64,500 ","$1,350 ","$7,500 ","$58,350 ",313.0
+2024 Hyundai Ioniq 5 Limited AWD,"$57,000 ","$1,395 ",$0 ,"$58,395 ",260.0
+2024 Volvo EX40 (XC40 Recharge) Plus AWD,"$57,150 ","$1,295 ",$0 ,"$58,445 ",254.0
+2024 Volvo EC40 (C40 Recharge) Plus AWD,"$57,150 ","$1,295 ",$0 ,"$58,445 ",257.0
+2024 BMW i4 eDrive40 Gran Croupe,"$57,300 ","$1,175 ",$0 ,"$58,475 ",301.0
+2024 Kia EV6 GT-Line AWD,"$57,600 ","$1,375 ",$0 ,"$58,975 ",252.0
+2025 BMW i4 eDrive40 Gran Croupe,"$57,900 ","$1,175 ",$0 ,"$59,075 ",318.0
+2024 Audi Q4 Sportback e-tron Premium AWD,"$58,200 ","$1,195 ",$0 ,"$59,395 ",258.0
+2024 Lexus RZ 450e Premium AWD,"$58,700 ","$1,175 ",$0 ,"$59,875 ",220.0
+2024 Ford E-Transit Cargo Van,"$57,935 ","$2,095 ",$0 ,"$60,030 ",159.0
+2024 Cadillac Lyriq Luxury 1 AWD,"$66,190 ","$1,395 ","$7,500 ","$60,085 ",307.0
+2024 Volvo EX40 (XC40 Recharge) Ultimate RWD,"$58,800 ","$1,295 ",$0 ,"$60,095 ",293.0
+2024 Volvo EC40 (C40 Recharge) Ultimate RWD,"$58,800 ","$1,295 ",$0 ,"$60,095 ",297.0
+2024 Cadillac Lyriq Sport 1 AWD,"$66,690 ","$1,395 ","$7,500 ","$60,585 ",307.0
+2024 Kia EV9 Light Long Range RWD,"$59,200 ","$1,495 ",$0 ,"$60,695 ",304.0
+2024 Hyundai Ioniq 5 D100 Platinum Edition AWD,"$59,400 ","$1,395 ",$0 ,"$60,795 ",260.0
+2024 Cadillac Lyriq Luxury 2 RWD,"$66,990 ","$1,395 ","$7,500 ","$60,885 ",314.0
+2024 Lexus RZ 300e Luxury FWD,"$59,730 ","$1,175 ",$0 ,"$60,905 ",224.0
+2024 Ford Mustang Mach-E Rally AWD 91 kWh,"$58,995 ","$1,995 ",$0 ,"$60,990 ",265.0
+2024 Audi Q4 55 e-tron Premium Plus AWD,"$59,900 ","$1,195 ",$0 ,"$61,095 ",258.0
+2024 Cadillac Lyriq Sport 2 RWD,"$67,490 ","$1,395 ","$7,500 ","$61,385 ",314.0
+2024 Volvo EX40 (XC40 Recharge) Ultimate AWD,"$60,550 ","$1,295 ",$0 ,"$61,845 ",254.0
+2024 Volvo EC40 (C40 Recharge) Ultimate AWD,"$60,550 ","$1,295 ",$0 ,"$61,845 ",257.0
+2024 Mercedes-Benz EQB 350 4Matic,"$60,850 ","$1,150 ",$0 ,"$62,000 ",207.0
+2025 Genesis GV60 Advanced AWD,"$60,900 ","$1,250 ",$0 ,"$62,150 ",
+2024 Acura ZDX A-Spec AWD,"$68,500 ","$1,350 ","$7,500 ","$62,350 ",304.0
+2024 Ford F-150 Lightning Flash 4X4 131 kWh,"$67,995 ","$2,095 ","$7,500 ","$62,590 ",320.0
+2024 BMW i4 xDrive40 Gran Croupe,"$61,600 ","$1,175 ",$0 ,"$62,775 ",307.0
+2024 Kia EV6 GT AWD,"$61,600 ","$1,375 ",$0 ,"$62,975 ",218.0
+2024 Audi Q4 e-tron 55 Prestige AWD,"$62,200 ","$1,195 ",$0 ,"$63,395 ",258.0
+2025 BMW i4 xDrive40 Gran Croupe,"$62,300 ","$1,175 ",$0 ,"$63,475 ",287.0
+2024 Audi Q4 Sportback e-tron Premium Plus AWD,"$62,900 ","$1,195 ",$0 ,"$64,095 ",258.0
+2025 Polestar 4 Long Range Dual Motor AWD,"$62,900 ","$1,400 ",$0 ,"$64,300 ",270.0
+2024 Cadillac Lyriq Luxury 2 AWD,"$70,490 ","$1,395 ","$7,500 ","$64,385 ",307.0
+2024 Cadillac Lyriq Luxury 3 RWD,"$70,590 ","$1,395 ","$7,500 ","$64,485 ",314.0
+2024 Cadillac Lyriq Sport 2 AWD,"$70,990 ","$1,395 ","$7,500 ","$64,885 ",307.0
+2024 Cadillac Lyriq Sport 3 RWD,"$71,090 ","$1,395 ","$7,500 ","$64,985 ",314.0
+2024 Kia EV9 Wind AWD,"$63,900 ","$1,495 ",$0 ,"$65,395 ",280.0
+2024 Lexus RZ 450e Luxury AWD,"$64,430 ","$1,175 ",$0 ,"$65,605 ",196.0
+2024 Audi Q4 Sportback e-tron Prestige AWD,"$65,200 ","$1,195 ",$0 ,"$66,395 ",258.0
+2024 Acura ZDX Type S AWD,"$73,500 ","$1,350 ","$7,500 ","$67,350 ",278.0
+2025 Hyundai Iniq 5 N AWD,"$66,100 ","$1,395 ",$0 ,"$67,495 ",221.0
+2024 Cadillac Lyriq Luxury 3 AWD,"$74,090 ","$1,395 ","$7,500 ","$67,985 ",307.0
+2025 BMW i5 eDrive40,"$67,100 ","$1,175 ",$0 ,"$68,275 ",295.0
+2025 Genesis Electrified GV70 AWD,"$66,950 ","$1,350 ",$0 ,"$68,300 ",
+2024 Acura ZDX Type S AWD Performance Wheels & Tires,"$74,500 ","$1,350 ","$7,500 ","$68,350 ",278.0
+2024 Cadillac Lyriq Sport 3 AWD,"$74,590 ","$1,395 ","$7,500 ","$68,485 ",307.0
+2025 Rivian R1T Dual Standard,"$69,900 ",$0 ,$0 ,"$69,900 ",270.0
+2024 BMW i4 M50 Gran Croupe,"$69,700 ","$1,175 ",$0 ,"$70,875 ",269.0
+2025 Genesis GV60 Performance AWD,"$69,900 ","$1,250 ",$0 ,"$71,150 ",
+2025 BMW i5 xDrive40,"$70,100 ","$1,175 ",$0 ,"$71,275 ",266.0
+2024 Kia EV9 Land AWD,"$69,900 ","$1,495 ",$0 ,"$71,395 ",280.0
+2025 Lucid Air Pure,"$69,900 ","$1,500 ",$0 ,"$71,400 ",420.0
+2024 Ford F-150 Lightning Lariat 4X4 131 kWh,"$76,995 ","$2,095 ","$7,500 ","$71,590 ",320.0
+2025 BMW i4 M50 Gran Coupe,"$70,700 ","$1,175 ",$0 ,"$71,875 ",267.0
+2025 Rivian R1T Dual Large,"$76,900 ",$0 ,"$3,750 ","$73,150 ",330.0
+2024 VinFast VF9 Plus,"$73,800 ",$0 ,$0 ,"$73,800 ",291.0
+2024 Jaguar I-Pace R-Dynamic HSE EV400 20-inch,"$72,500 ","$1,375 ",$0 ,"$73,875 ",246.0
+2024 Tesla Model X AWD,"$79,990 ","$1,390 ","$7,500 ","$73,880 ",335.0
+2025 Polestar 3 Long Range Dual Motor AWD,"$73,400 ","$1,400 ",$0 ,"$74,800 ",315.0
+2024 Chevrolet Silverado EV 3WT,"$72,905 ","$1,995 ",$0 ,"$74,900 ",393.0
+2024 Kia EV9 GT-Line AWD,"$73,900 ","$1,495 ",$0 ,"$75,395 ",270.0
+2024 Audi Q8 e-tron Premium AWD,"$74,400 ","$1,195 ",$0 ,"$75,595 ",285.0
+2024 Genesis Electrified G80 Advanced AWD,"$74,375 ","$1,250 ",$0 ,"$75,625 ",282.0
+2024 Jaguar I-Pace R-Dynamic HSE EV400 22-inch,"$74,500 ","$1,375 ",$0 ,"$75,875 ",217.0
+2025 Rivian R1S Dual Standard,"$75,900 ",$0 ,$0 ,"$75,900 ",270.0
+2024 Mercedes-Benz EQE 350+ Sedan,"$74,900 ","$1,150 ",$0 ,"$76,050 ",298.0
+2024 Tesla Model S AWD,"$74,990 ","$1,390 ",$0 ,"$76,380 ",402.0
+2024 Audi Q8 Sportback e-tron Premium Ultra AWD,"$77,800 ","$1,195 ",$0 ,"$78,995 ",300.0
+2024 Audi Q8 Sportback e-tron Premium AWD,"$77,800 ","$1,195 ",$0 ,"$78,995 ",296.0
+2024 Mercedes-Benz EQE 350 4Matic Sedan,"$77,900 ","$1,150 ",$0 ,"$79,050 ",280.0
+2024 Mercedes-Benz EQE 350+ SUV,"$77,900 ","$1,150 ",$0 ,"$79,050 ",307.0
+2024 Mercedes-Benz EQE 350 4Matic SUV,"$77,900 ","$1,150 ",$0 ,"$79,050 ",265.0
+2024 Chevrolet Silverado EV 4WT,"$77,905 ","$1,995 ",$0 ,"$79,900 ",450.0
+2024 Audi Q8 e-tron Premium Plus AWD,"$78,800 ","$1,195 ",$0 ,"$79,995 ",285.0
+2025 Lucid Air Touring,"$78,900 ","$1,500 ",$0 ,"$80,400 ",406.0
+2025 Polestar 3 Long Range Dual Motor Performance Pack AWD,"$79,400 ","$1,400 ",$0 ,"$80,800 ",279.0
+2025 Volvo EX90 Plus Twin Motor AWD,"$79,995 ","$1,295 ",$0 ,"$81,290 ",296.0
+2025 Rivian R1S Dual Large,"$82,900 ",$0 ,$0 ,"$82,900 ",330.0
+2024 Audi Q8 Sportback e-tron Premium Plus AWD,"$82,200 ","$1,195 ",$0 ,"$83,395 ",296.0
+2025 Rivian R1T Dual Max,"$83,900 ",$0 ,$0 ,"$83,900 ",420.0
+2025 BMW i5 M60,"$84,100 ","$1,175 ",$0 ,"$85,275 ",253.0
+2025 Volvo EX90 Ultra Twin Motor AWD,"$84,345 ","$1,295 ",$0 ,"$85,640 ",308.0
+2024 Audi Q8 e-tron Prestige AWD,"$84,800 ","$1,195 ",$0 ,"$85,995 ",285.0
+2025 Volvo EX90 Plus Twin Motor Performance AWD,"$84,995 ","$1,295 ",$0 ,"$86,290 ",296.0
+2024 Mercedes-Benz EQE 500 4Matic Sedan,"$85,900 ","$1,150 ",$0 ,"$87,050 ",298.0
+2024 Ford F-150 Lightning Platinum 4X4 131 kWh,"$84,995 ","$2,095 ",$0 ,"$87,090 ",300.0
+2025 BMW iX xDrive50,"$87,250 ","$1,175 ",$0 ,"$88,425 ",309.0
+2024 Audi Q8 e-tron Launch Edition AWD,"$87,550 ","$1,195 ",$0 ,"$88,745 ",285.0
+2024 Audi Q8 Sportback e-tron Prestige AWD,"$88,200 ","$1,195 ",$0 ,"$89,395 ",296.0
+2025 Rivian R1S Dual Max,"$89,900 ",$0 ,$0 ,"$89,900 ",410.0
+2025 Volvo EX90 Ultra Twin Motor Performance AWD,"$89,345 ","$1,295 ",$0 ,"$90,640 ",308.0
+2024 Mercedes-Benz EQE 500 4Matic SUV,"$89,500 ","$1,150 ",$0 ,"$90,650 ",282.0
+2024 Audi SQ8 e-tron Premium Plus AWD,"$89,800 ","$1,195 ",$0 ,"$90,995 ",253.0
+2024 Tesla Model S Plaid,"$89,990 ","$1,390 ",$0 ,"$91,380 ",359.0
+2024 Audi Q8 Sportback e-tron Launch Edition AWD,"$91,950 ","$1,195 ",$0 ,"$93,145 ",296.0
+2024 Audi SQ8 Sportback e-tron Premium Plus AWD,"$92,600 ","$1,195 ",$0 ,"$93,795 ",253.0
+2024 Tesla Model X Plaid,"$94,990 ","$1,390 ",$0 ,"$96,380 ",326.0
+2024 Chevrolet Silverado EV First Edition 4WD,"$94,500 ","$1,995 ",$0 ,"$96,495 ",440.0
+2024 Audi SQ8 e-tron Prestige AWD,"$95,800 ","$1,195 ",$0 ,"$96,995 ",253.0
+2025 GMC Hummer EV Pickup 2X eAW,"$96,550 ","$2,295 ",$0 ,"$98,845 ",311.0
+2025 GMC Hummer EV SUV 2X eAWD,"$96,550 ","$2,295 ",$0 ,"$98,845 ",303.0
+2025 GMC Sierra EV Denali Edition 1,"$97,500 ","$1,995 ",$0 ,"$99,495 ",440.0
+2024 Audi SQ8 Sportback e-tron Prestige AWD,"$98,600 ","$1,195 ",$0 ,"$99,795 ",253.0
+2025 Rivian R1T Tri Max,"$99,900 ",$0 ,$0 ,"$99,900 ",371.0
+2025 Porsche Taycan,"$99,400 ","$1,995 ",$0 ,"$101,395 ",274.0
+2024 Tesla Cybertruck AWD Foundation Series,"$99,990 ","$1,995 ",$0 ,"$101,985 ",318.0
+2024 Mercedes-Benz EQS 450+ Sedan,"$104,400 ","$1,150 ",$0 ,"$105,550 ",352.0
+2024 Mercedes-Benz EQS 450+ SUV,"$104,400 ","$1,150 ",$0 ,"$105,550 ",339.0
+2025 Rivian R1S Tri Max,"$105,900 ",$0 ,$0 ,"$105,900 ",371.0
+2025 BMW i7 eDrive50,"$105,700 ","$1,175 ",$0 ,"$106,875 ",314.0
+2025 GMC Hummer EV Pickup 3X eAWD,"$104,650 ","$2,295 ",$0 ,"$106,945 ",381.0
+2025 GMC Hummer EV SUV 3X eAWD,"$104,650 ","$2,295 ",$0 ,"$106,945 ",314.0
+2024 Audi e-tron GT Premium Plus AWD,"$106,500 ","$1,495 ",$0 ,"$107,995 ",249.0
+2024 Mercedes-AMG EQE 4Matic+ Sedan,"$106,900 ","$1,150 ",$0 ,"$108,050 ",230.0
+2024 Mercedes-Benz EQS 450 4Matic Sedan,"$107,400 ","$1,150 ",$0 ,"$108,550 ",345.0
+2024 Mercedes-Benz EQS 450 4Matic SUV,"$107,400 ","$1,150 ",$0 ,"$108,550 ",330.0
+2024 Mercedes-AMG EQE 4Matic+ SUV,"$109,300 ","$1,150 ",$0 ,"$110,450 ",235.0
+2025 Lucid Air Grand Touring,"$110,900 ","$1,500 ",$0 ,"$112,400 ",512.0
+2025 BMW iX M60 xDrive,"$111,500 ","$1,175 ",$0 ,"$112,675 ",285.0
+2025 Porsche Taycan 4 Cross Turismo,"$111,100 ","$1,995 ",$0 ,"$113,095 ",277.0
+2024 Audi e-tron GT Prestige AWD,"$114,500 ","$1,495 ",$0 ,"$115,995 ",249.0
+2025 Porsche Taycan 4S,"$118,500 ","$1,995 ",$0 ,"$120,495 ",252.0
+2024 Tesla Cybertruck Tri-Motor Cyberbeast Foundation Series,"$119,990 ","$1,995 ",$0 ,"$121,985 ",301.0
+2025 BMW i7 xDrive60,"$124,200 ","$1,175 ",$0 ,"$125,375 ",311.0
+2025 Porsche Taycan 4S Cross Turismo,"$125,200 ","$1,995 ",$0 ,"$127,195 ",272.0
+2025 Cadillac Escalade iQ (estimated starting price and range),"$127,700 ",$0 ,$0 ,"$127,700 ",460.0
+2024 Mercedes-Benz EQS 580 4Matic Sedan,"$127,350 ","$1,150 ",$0 ,"$128,500 ",345.0
+2024 Mercedes-Benz EQS 580 4Matic SUV,"$127,350 ","$1,150 ",$0 ,"$128,500 ",330.0
+2024 Audi RS e-tron GT AWD,"$147,100 ","$1,495 ",$0 ,"$148,595 ",249.0
+2024 Mercedes-AMG EQS 4Matic+ Sedan,"$147,550 ","$1,150 ",$0 ,"$148,700 ",305.0
+2025 BMW i7 M70,"$168,500 ","$1,175 ",$0 ,"$169,675 ",285.0
+2025 Porsche Taycan Turbo,"$173,600 ","$1,995 ",$0 ,"$175,595 ",292.0
+2025 Porsche Taycan Turbo Cross Turismo,"$176,300 ","$1,995 ",$0 ,"$178,295 ",265.0
+2024 Mercedes-Benz EQS 680 4Matic Maybach SUV,"$179,900 ","$1,150 ",$0 ,"$181,050 ",321.0
+2025 Porsche Taycan Turbo S,"$209,000 ","$1,995 ",$0 ,"$210,995 ",266.0
+2025 Porsche Taycan Turbo S Cross Turismo,"$211,700 ","$1,995 ",$0 ,"$213,695 ",261.0
+2025 Porsche Taycan Turbo GT,"$230,000 ","$1,995 ",$0 ,"$231,995 ",276.0
+2025 Porsche Taycan Turbo GT Weissach Package,"$230,000 ","$1,995 ",$0 ,"$231,995 ",269.0
+2025 Lucid Air Sapphire,"$249,000 ","$1,500 ",$0 ,"$250,500 ",427.0
+2024 Cadillac Celestiq (estimated price and range),"$340,000 ",$0 ,$0 ,"$340,000 ",300.0
+2025 Rolls-Royce Spectre 22-inch,"$420,000 ",$0 ,$0 ,"$420,000 ",277.0
+2024 Acura ZDX A-Spec RWD 20-in,"$64,500 ","$1,350 ",,"$65,850 ",325.0
+2024 Acura ZDX A-Spec AWD 20-in,"$68,500 ","$1,350 ",,"$69,850 ",315.0
+2024 Acura ZDX Type S AWD 22-in,"$73,500 ","$1,350 ",,"$74,850 ",288.0
+2024 Acura ZDX Type S (perf. tires) AWD 22-in,"$74,500 ","$1,350 ",,"$75,850 ",289.0
+2024 Audi e-tron GT 20-in,"$106,500 ","$1,495 ",,"$107,995 ",249.0
+2024 Audi RS e-tron GT 20-in,"$147,100 ","$1,495 ",,"$148,595 ",249.0
+2024 Audi Q4 40 e-tron 19-in,"$49,800 ","$1,195 ",,"$50,995 ",265.0
+2024 Audi Q4 50 e-tron quattro 19-in,"$55,200 ","$1,195 ",,"$56,395 ",236.0
+2024 Audi Q4 Sportback 50 e-tron quattro 20-in,"$58,200 ","$1,195 ",,"$59,395 ",242.0
+2024 Audi Q8 e-tron 20-in,"$74,400 ","$1,195 ",,"$75,595 ",285.0
+2024 Audi Q8 e-tron Sportback (Ultra) 19-in,"$77,800 ","$1,195 ",,"$78,995 ",300.0
+2024 Audi Q8 e-tron Sportback 20-in,"$77,800 ","$1,195 ",,"$78,995 ",296.0
+2024 Audi SQ8 e-tron 20-in,"$89,800 ","$1,195 ",,"$90,995 ",253.0
+2024 Audi SQ8 e-tron 21/22-in,"$89,800 ","$1,195 ",,"$90,995 ",218.0
+2024 Audi SQ8 Sportback e-tron 20-in,"$92,600 ","$1,195 ",,"$93,795 ",253.0
+2024 Audi SQ8 Sportback e-tron 21/22-in,"$92,600 ","$1,195 ",,"$93,795 ",218.0
+2024 BMW i4 eDrive35 18-in,"$52,200 ",$995 ,,"$53,195 ",276.0
+2024 BMW i4 eDrive35 19-in,"$52,800 ",$995 ,,"$53,795 ",252.0
+2024 BMW i4 eDrive40 18-in,"$57,300 ",$995 ,,"$58,295 ",301.0
+2024 BMW i4 eDrive40 19-in,"$57,900 ",$995 ,,"$58,895 ",283.0
+2024 BMW i4 xDrive40 18-in,"$61,600 ",$995 ,,"$62,595 ",307.0
+2024 BMW i4 xDrive40 19-in,"$62,200 ",$995 ,,"$63,195 ",279.0
+2024 BMW i4 M50 19-in,"$69,700 ",$995 ,,"$70,695 ",269.0
+2024 BMW i4 M50 20-in,"$72,200 ",$995 ,,"$73,195 ",227.0
+2024 BMW i5 eDrive40 19-in,"$66,800 ",$995 ,,"$67,795 ",295.0
+2024 BMW i5 eDrive40 20-in,"$67,600 ",$995 ,,"$68,595 ",278.0
+2024 BMW i5 eDrive40 21-in,"$72,150 ",$995 ,,"$73,145 ",270.0
+2025 BMW i5 xDrive40 19-in,"$70,100 ",$995 ,,"$71,095 ",
+2024 BMW i5 M60 19-in,"$84,100 ",$995 ,,"$85,095 ",256.0
+2024 BMW i5 M60 20-in,"$84,900 ",$995 ,,"$85,895 ",248.0
+2024 BMW i5 M60 21-in,"$85,900 ",$995 ,,"$86,895 ",240.0
+2024 BMW i7 eDrive50 19-in,"$105,700 ",$995 ,,"$106,695 ",321.0
+2024 BMW i7 eDrive50 20-in,"$107,000 ",$995 ,,"$107,995 ",301.0
+2024 BMW i7 eDrive50 21-in,"$107,000 ",$995 ,,"$107,995 ",311.0
+2024 BMW i7 xDrive60 19-in,"$124,200 ",$995 ,,"$125,195 ",317.0
+2024 BMW i7 xDrive60 20-in,"$124,200 ",$995 ,,"$125,195 ",298.0
+2024 BMW i7 xDrive60 21-in,"$125,500 ",$995 ,,"$126,495 ",307.0
+2024 BMW i7 M70 20-in,"$168,500 ",$995 ,,"$169,495 ",274.0
+2024 BMW i7 M70 21-in,"$168,500 ",$995 ,,"$169,495 ",291.0
+2024 BMW iX xDrive50 20-in,"$87,100 ",$995 ,,"$88,095 ",307.0
+2024 BMW iX xDrive50 21-in,"$88,050 ",$995 ,,"$89,045 ",307.0
+2024 BMW iX xDrive50 22-in,"$89,000 ",$995 ,,"$89,995 ",307.0
+2024 BMW iX M60 21-in,"$111,500 ",$995 ,,"$112,495 ",296.0
+2024 BMW iX M60 22-in,"$112,450 ",$995 ,,"$113,445 ",296.0
+2024 Cadillac Celestiq 23-in,"$340,000*",,,"$340,000 ",300.0
+2025 Cadillac Escalade IQ 24-in,"$130,000*",,,"$130,000 ",450.0
+2024 Cadillac Lyriq Tech RWD 20-in,"$57,195 ","$1,395 ",,"$58,590 ",314.0
+2024 Cadillac Lyriq Tech AWD 20-in,"$60,695 ","$1,395 ",,"$62,090 ",307.0
+2024 Chevrolet Blazer EV LT eAWD (85) 19-in,"$55,320 ","$1,395 ",,"$56,715 ",279.0
+2024 Chevrolet Blazer EV RS eAWD (85) 21-in,"$58,820 ","$1,395 ",,"$60,215 ",279.0
+2024 Chevrolet Blazer EV RS RWD (102) 21-in,"$60,395 ","$1,395 ",,"$61,790 ",324.0
+2024 Chevrolet Blazer EV SS pAWD (102) 22-in,,,,,294.0
+2023 Chevrolet Bolt EV 1LT 17-in,"$26,500 ",$995 ,"$7,500 ","$19,995 ",259.0
+2023 Chevrolet Bolt EUV LT 17-in,"$27,800 ",$995 ,"$7,500 ","$21,295 ",247.0
+2024 Chevrolet Equinox EV LE FWD 21-in,"$48,995*",,,"$48,995 ",319.0
+2024 Chevrolet Equinox EV 1LT FWD 19-in,"$34,995*",,,"$34,995 ",319.0
+2024 Chevrolet Equinox EV 2RS eAWD 20-in,"$52,395*",,,"$52,395 ",280.0
+2024 Chevrolet Silverado EV 3WT 18-in,"$72,905 ","$1,895 ",,"$74,800 ",393.0
+2024 Chevrolet Silverado EV 4WT 18-in,"$77,905 ","$1,895 ",,"$79,800 ",450.0
+2024 Chevrolet Silverado EV RST 24-in,"$105,000 ","$1,895 ",,"$106,895 ",400.0
+2024 Fiat 500e RED 17-in,"$32,500 ","$1,595 ",,"$34,095 ",149.0
+2023 Fisker Ocean Sport 20-in,"$38,999*",,,"$38,999 ",231.0
+2023 Fisker Ocean Ultra 20-in,"$52,999*",,,"$52,999 ",350.0
+2023 Fisker Ocean Extreme 20-in,"$61,499*",,,"$61,499 ",360.0
+2023 Fisker Ocean One (sold out) 20-in,"$68,999*",,,"$68,999 ",360.0
+2024 Ford F-150 Lightning Pro SR 18-in,"$54,995 ","$2,095 ","$7,500 ","$49,590 ",240.0
+2024 Ford F-150 Lightning XLT SR 18-in,"$64,995 ","$2,095 ","$7,500 ","$59,590 ",240.0
+2024 Ford F-150 Lightning Flash ER 20-in,"$73,495 ","$2,095 ","$7,500 ","$68,090 ",320.0
+2024 Ford F-150 Lightning Lariat ER 20-in,"$79,495 ","$2,095 ","$7,500 ","$74,090 ",320.0
+2024 Ford F-150 Lightning Platinum ER 22-in,"$84,995 ","$2,095 ",,"$87,090 ",300.0
+2024 Ford F-150 Lightning Platinum B. ER 22-in,"$92,995 ","$2,095 ",,"$95,090 ",300.0
+2023 Ford Must. Mach-E Select SR RWD 18-in,"$42,995 ","$1,800 ",,"$44,795 ",250.0
+2023 Ford Must. Mach-E Select SR AWD 18-in,"$45,995 ","$1,800 ",,"$47,795 ",226.0
+2023 Ford Must. Mach-E Prem. SR RWD 19-in,"$46,995 ","$1,800 ",,"$48,795 ",250.0
+2023 Ford Must. Mach-E Prem. SR AWD 19-in,"$49,995 ","$1,800 ",,"$51,795 ",226.0
+2023 Ford Must. Mach-E Prem. ER RWD 19-in,"$53,995 ","$1,800 ",,"$55,795 ",310.0
+2023 Ford Must. Mach-E Prem. ER AWD 19-in,"$56,995 ","$1,800 ",,"$58,795 ",290.0
+2023 Ford Must. Mach-E R1 ER AWD 18-in,"$56,995 ","$1,800 ",,"$58,795 ",312.0
+2023 Ford Must. Mach-E GT ER AWD 20-in,"$59,995 ","$1,800 ",,"$61,795 ",270.0
+2023 Ford Must. Mach-E GT P ER AWD 20-in,"$64,995 ","$1,800 ",,"$66,795 ",260.0
+2024 Genesis Electrified G80 AWD 19-in,"$74,375 ","$1,195 ",,"$75,570 ",282.0
+2024 Genesis GV60 Standard RWD 19-in,"$52,000 ","$1,195 ",,"$53,195 ",294.0
+2024 Genesis GV60 Advanced AWD 20-in,"$60,550 ","$1,195 ",,"$61,745 ",248.0
+2024 Genesis GV60 Performance AWD 21-in,"$69,550 ","$1,195 ",,"$70,745 ",235.0
+2024 Genesis Electrified GV70 Adv AWD 20-in,"$66,450 ","$1,125 ",,"$67,575 ",236.0
+"2024 GMC Hummer EV Pickup 3X 20, 22-in AT","$104,650 ","$2,295 ",,"$106,945 ",314.0
+"2024 GMC Hummer EV Pickup 3X 20, 18-in MT","$114,645 ","$2,295 ",,"$116,940 ",298.0
+"2024 GMC Hummer EV Pickup 3X 24, 22-in AT","$114,645 ","$2,295 ",,"$116,940 ",381.0
+"2024 GMC Hummer EV Pickup 3X 24, 18-in MT","$124,640 ","$2,295 ",,"$126,935 ",359.0
+"2024 GMC Hummer EV Pickup 2X 20, 22-in AT","$96,550 ","$2,295 ",,"$98,845 ",311.0
+"2024 GMC Hummer EV Pickup 2X 20, 18-in MT","$106,545 ","$2,295 ",,"$108,840 ",
+"2024 GMC Hummer EV SUV 3X 20, 22-in AT","$104,650 ","$2,295 ",,"$106,945 ",314.0
+"2024 GMC Hummer EV SUV 3X 20, 18-in MT","$114,645 ","$2,295 ",,"$116,940 ",298.0
+"2024 GMC Hummer EV SUV 2X, 20, 22-in AT","$96,550 ","$2,295 ",,"$98,845 ",303.0
+"2024 GMC Hummer EV SUV 2X 20, 18-in MT","$106,545 ","$2,295 ",,"$108,840 ",
+2024 GMC Sierra EV Denali Edition 1 24-in,"$107,000 ","$1,695 ",,"$108,695 ",400.0
+2024 Honda Prologue EX FWD (85) 19-in,"$47,400 ","$1,395 ",,"$48,795 ",296.0
+2024 Honda Prologue EX AWD (85) 19-in,"$50,400 ","$1,395 ",,"$51,795 ",281.0
+2024 Honda Prologue Touring FWD (85) 19-in,"$51,700 ","$1,395 ",,"$53,095 ",296.0
+2024 Honda Prologue Touring AWD (85) 19-in,"$54,700 ","$1,395 ",,"$56,095 ",281.0
+2024 Honda Prologue Elite AWD (85) 21-in,"$57,900 ","$1,395 ",,"$59,295 ",273.0
+2024 Hyundai Ioniq 5 SE SR RWD 19-in,"$41,800 ","$1,375 ",,"$43,175 ",220.0
+2024 Hyundai Ioniq 5 SE RWD 19-in,"$45,850 ","$1,375 ",,"$47,225 ",303.0
+2024 Hyundai Ioniq 5 SE AWD 19-in,"$49,350 ","$1,375 ",,"$50,725 ",260.0
+2024 Hyundai Ioniq 5 SEL RWD 19-in,"$47,400 ","$1,375 ",,"$48,775 ",303.0
+2024 Hyundai Ioniq 5 SEL AWD 19-in,"$50,900 ","$1,375 ",,"$52,275 ",260.0
+2024 Hyundai Ioniq 5 Limited RWD 19-in,"$53,500 ","$1,375 ",,"$54,875 ",303.0
+2024 Hyundai Ioniq 5 Limited AWD 20-in,"$57,400 ","$1,375 ",,"$58,775 ",260.0
+2024 Hyundai Ioniq 6 SE RWD LR 18-in,"$42,450 ","$1,115 ",,"$43,565 ",361.0
+2024 Hyundai Ioniq 6 SE AWD LR 18-in,"$45,950 ","$1,115 ",,"$47,065 ",316.0
+2024 Hyundai Ioniq 6 SEL RWD LR 20-in,"$45,250 ","$1,115 ",,"$46,365 ",305.0
+2024 Hyundai Ioniq 6 SEL AWD LR 20-in,"$48,750 ","$1,115 ",,"$49,865 ",270.0
+2024 Hyundai Ioniq 6 Limited RWD LR 20-in,"$50,150 ","$1,115 ",,"$51,265 ",305.0
+2024 Hyundai Ioniq 6 Limited AWD LR 20-in,"$53,650 ","$1,115 ",,"$54,765 ",270.0
+2024 Hyundai Kona Electric SE (48.6) 17-in,"$32,675 ","$1,335 ",,"$34,010 ",200.0
+2024 Hyundai Kona Electric SEL (64.8) 17-in,"$36,675 ","$1,335 ",,"$38,010 ",261.0
+2024 Hyundai Kona Electric Limit. (64.8) 17-in,"$41,045 ","$1,335 ",,"$42,380 ",261.0
+2024 Jaguar I-Pace EV400 20-in,"$72,000 ","$1,275 ",,"$73,275 ",246.0
+2024 Jaguar I-Pace EV400 22-in,"$74,000 ","$1,275 ",,"$75,275 ",217.0
+2024 Kia EV6 Light RWD SR 19-in,"$42,600 ","$1,325 ",,"$43,925 ",232.0
+2024 Kia EV6 Light RWD LR 19-in,"$45,950 ","$1,325 ",,"$47,275 ",310.0
+2024 Kia EV6 Light AWD LR 19-in,"$49,850 ","$1,325 ",,"$51,175 ",282.0
+2024 Kia EV6 Wind RWD LR 19-in,"$48,700 ","$1,325 ",,"$50,025 ",310.0
+2024 Kia EV6 Wind AWD LR 19-in,"$52,600 ","$1,325 ",,"$53,925 ",282.0
+2024 Kia EV6 GT-Line RWD LR 19-in,"$52,900 ","$1,325 ",,"$54,225 ",310.0
+2024 Kia EV6 GT-Line AWD LR 20-in,"$57,600 ","$1,325 ",,"$58,925 ",252.0
+2024 Kia EV6 GT AWD LR 21-in,"$61,600 ","$1,325 ",,"$62,925 ",218.0
+2024 Kia EV9 Light (7 seat) RWD SR 19-in,"$54,900 ","$1,495 ",,"$56,395 ",230.0
+2024 Kia EV9 Light (6 seat) RWD LR 19-in,"$59,200 ","$1,495 ",,"$60,695 ",304.0
+2024 Kia EV9 Wind (7 seat) AWD LR 19-in,"$63,900 ","$1,495 ",,"$65,395 ",280.0
+2024 Kia EV9 Land (6 seat) AWD LR 20-in,"$69,900 ","$1,495 ",,"$71,395 ",280.0
+2024 Kia EV9 GT-Line (6 seat) AWD LR 21-in,"$73,900 ","$1,495 ",,"$75,395 ",270.0
+2024 Kia Niro EV 17-in,"$39,600 ","$1,325 ",,"$40,925 ",253.0
+2024 Lexus RZ 300e Premium FWD 18-in,"$54,000 ","$1,150 ",,"$55,150 ",266.0
+2024 Lexus RZ 300e Premium FWD 20-in,"$55,240 ","$1,150 ",,"$56,390 ",224.0
+2024 Lexus RZ 300e Luxury FWD 20-in,"$59,730 ","$1,150 ",,"$60,880 ",224.0
+2024 Lexus RZ 450e Premium AWD 18-in,"$58,700 ","$1,150 ",,"$59,850 ",220.0
+2024 Lexus RZ 450e Premium AWD 20-in,"$59,940 ","$1,150 ",,"$61,090 ",196.0
+2024 Lexus RZ 450e Luxury AWD 20-in,"$64,430 ","$1,150 ",,"$65,580 ",196.0
+2023 Lucid Air Pure AWD 19-in,"$82,400 ","$1,575 ",,"$83,975 ",410.0
+2023 Lucid Air Pure AWD 20-in,"$83,900 ","$1,575 ",,"$85,475 ",384.0
+2023 Lucid Air Grand Touring AWD 19-in,"$125,600 ","$1,575 ",,"$127,175 ",516.0
+2023 Lucid Air Grand Touring AWD 20-in,"$125,600 ","$1,575 ",,"$127,175 ",469.0
+2023 Lucid Air Grand Touring AWD 21-in,"$127,100 ","$1,575 ",,"$128,675 ",469.0
+2023 Lucid Air Grand Touring Perf. 21-in,"$149,600 ","$1,575 ",,"$151,175 ",446.0
+2024 Lucid Air Pure RWD 19-in,"$77,400 ","$1,575 ",,"$78,975 ",419.0
+2024 Lucid Air Pure RWD 20-in,"$79,150 ","$1,575 ",,"$80,725 ",394.0
+2024 Lucid Air Touring AWD 19-in,"$85,900 ","$1,575 ",,"$87,475 ",411.0
+2024 Lucid Air Touring AWD 20-in,"$87,650 ","$1,575 ",,"$89,225 ",382.0
+2024 Lucid Air Touring AWD 21-in,"$89,400 ","$1,575 ",,"$90,975 ",365.0
+2024 Lucid Air Grand Touring AWD 19-in,"$114,900 ","$1,575 ",,"$116,475 ",500.0
+2024 Lucid Air Grand Touring AWD 20-in,"$114,900 ","$1,575 ",,"$116,475 ",
+2024 Lucid Air Grand Touring AWD 21-in,"$116,650 ","$1,575 ",,"$118,225 ",
+2024 Lucid Air Sapphire 20-in (F) 21-in (R),"$249,000 ","$1,575 ",,"$250,575 ",427.0
+2023 Mercedes EQB 250+ 18-in,"$52,750 ","$1,150 ",,"$53,900 ",245.0
+2023 Mercedes EQB 300 4Matic 18-in,"$56,900 ","$1,150 ",,"$58,050 ",232.0
+2023 Mercedes EQB 350 4Matic 19-in,"$60,550 ","$1,150 ",,"$61,700 ",221.0
+2023 Mercedes EQE 350+ 19-in,"$74,900 ","$1,150 ",,"$76,050 ",305.0
+2023 Mercedes EQE 350 4Matic 19-in,"$77,900 ","$1,150 ",,"$79,050 ",260.0
+2023 Mercedes EQE 500 4Matic 19-in,"$85,900 ","$1,150 ",,"$87,050 ",260.0
+2023 Mercedes AMG EQE 4Matic+ 20-in,"$106,900 ","$1,150 ",,"$108,050 ",225.0
+2023 Mercedes EQE 350+ SUV 19-in,"$77,900 ","$1,150 ",,"$79,050 ",279.0
+2023 Mercedes EQE 350 4Matic SUV 19-in,"$77,900 ","$1,150 ",,"$79,050 ",253.0
+2023 Mercedes EQE 500 4Matic SUV 19-in,"$89,500 ","$1,150 ",,"$90,650 ",269.0
+2024 Mercedes AMG EQE 4Matic+ SUV 21-in,"$109,300 ","$1,150 ",,"$110,450 ",235.0
+2023 Mercedes EQS 450+ 20-in,"$104,400 ","$1,150 ",,"$105,550 ",350.0
+2023 Mercedes EQS 450 4Matic 20-in,"$107,400 ","$1,150 ",,"$108,550 ",340.0
+2023 Mercedes EQS 580 4Matic 21-in,"$125,950 ","$1,150 ",,"$127,100 ",340.0
+2023 Mercedes AMG EQS 4Matic+ 21-in,"$147,550 ","$1,150 ",,"$148,700 ",277.0
+2023 Mercedes EQS 450+ SUV 20-in,"$104,400 ","$1,150 ",,"$105,550 ",305.0
+2023 Mercedes EQS 450 4Matic SUV 20-in,"$107,400 ","$1,150 ",,"$108,550 ",285.0
+2023 Mercedes EQS 580 4Matic SUV 21-in,"$125,950 ","$1,150 ",,"$127,100 ",285.0
+2024 Mercedes-Maybach EQS 680 4M SUV 21-in,"$179,900 ","$1,150 ",,"$181,050 ",280.0
+2024 MINI Cooper SE Hardtop 2 door 16-in,"$30,900 ",$995 ,,"$31,895 ",114.0
+2023 Nissan Ariya Engage FWD (66) 19-in,"$43,190 ","$1,335 ",,"$44,525 ",216.0
+2023 Nissan Ariya Engage e-4ORCE (66) 19-in,"$47,190 ","$1,335 ",,"$48,525 ",205.0
+2023 Nissan Ariya Venture+ FWD 19-in,"$47,190 ","$1,335 ",,"$48,525 ",304.0
+2023 Nissan Ariya Evolve+ FWD 19-in,"$50,190 ","$1,335 ",,"$51,525 ",289.0
+2023 Nissan Ariya Empower+ FWD 19-in,"$53,690 ","$1,335 ",,"$55,025 ",289.0
+2023 Nissan Ariya Engage+ e-4ORCE 19-in,"$51,190 ","$1,335 ",,"$52,525 ",272.0
+2023 Nissan Ariya Evolve+ e-4ORCE 19-in,"$54,190 ","$1,335 ",,"$55,525 ",272.0
+2023 Nissan Ariya Platinum+ e-4ORCE 19-in,"$60,190 ","$1,335 ",,"$61,525 ",267.0
+2023 Nissan Ariya Platinum+ e-4ORCE 20-in,"$60,190 ","$1,335 ",,"$61,525 ",257.0
+2024 Nissan Leaf S (40 kWh) 16-in,"$28,140 ","$1,095 ",,"$29,235 ",149.0
+2024 Nissan Leaf SV Plus (60 kWh) 17-in,"$36,190 ","$1,095 ",,"$37,285 ",212.0
+2024 Polestar 2 LR Single Motor 19-in,"$49,900 ","$1,400 ",,"$51,300 ",320.0
+2024 Polestar 2 LR Single Motor 20-in,"$51,200 ","$1,400 ",,"$52,600 ",307.0
+2024 Polestar 2 LR Dual Motor 19-in,"$55,300 ","$1,400 ",,"$56,700 ",276.0
+2024 Polestar 2 LR Dual Motor 20-in,"$56,600 ","$1,400 ",,"$58,000 ",266.0
+2024 Polestar 2 LR Dual Motor Perf Pack 20-in,"$63,000 ","$1,400 ",,"$64,400 ",247.0
+2024 Polestar 3 LR Dual Motor 21-in,"$83,900 ","$1,400 ",,"$85,300 ",300.0
+2024 Polestar 3 LR Dual Motor Perf. 22-in,"$89,900 ","$1,400 ",,"$91,300 ",270.0
+2024 Porsche Macan 4 Electric 20-in,"$78,800 ","$1,650 ",,"$80,450 ",
+2024 Porsche Macan Turbo Electric 20-in,"$105,300 ","$1,650 ",,"$106,950 ",
+2023 Porsche Taycan (79 kWh) 19-in,"$90,900 ","$1,650 ",,"$92,550 ",208.0
+2023 Porsche Taycan 19-in,"$96,680 ","$1,650 ",,"$98,330 ",242.0
+2023 Porsche Taycan 4S (79 kWh) 19-in,"$111,700 ","$1,650 ",,"$113,350 ",206.0
+2023 Porsche Taycan 4S 19-in,"$117,270 ","$1,650 ",,"$118,920 ",235.0
+2023 Porsche Taycan GTS 20-in,"$139,300 ","$1,650 ",,"$140,950 ",246.0
+2023 Porsche Taycan Turbo 20-in,"$160,800 ","$1,650 ",,"$162,450 ",238.0
+2023 Porsche Taycan Turbo S 21-in,"$194,900 ","$1,650 ",,"$196,550 ",222.0
+2023 Porsche Taycan GTS Sport Turismo 20-in,"$141,200 ","$1,650 ",,"$142,850 ",233.0
+2023 Porsche Taycan 4 Cross Turismo 19-in,"$101,900 ","$1,650 ",,"$103,550 ",235.0
+2023 Porsche Taycan 4S Cross Turismo  19-in,"$118,200 ","$1,650 ",,"$119,850 ",230.0
+2023 Porsche Taycan Turbo Cross Tur. 20-in,"$163,400 ","$1,650 ",,"$165,050 ",233.0
+2023 Porsche Taycan Turbo S Cross Tur. 20-in,"$197,500 ","$1,650 ",,"$199,150 ",222.0
+"2023 Rivian R1S DM AWD, Std Pack, 21-in","$78,000 ","$1,800 ","$3,750 ","$76,050 ",260.0
+"2023 Rivian R1S DM AWD, Std Pack, 22-in","$80,500 ","$1,800 ",,"$82,300 ",
+"2023 Rivian R1S DM AWD, Large Pack, AT 20-in","$87,600 ","$1,800 ",,"$89,400 ",307.0
+"2023 Rivian R1S DM AWD, Large Pack, 21-in","$84,000 ","$1,800 ",,"$85,800 ",352.0
+"2023 Rivian R1S DM AWD, Large Pack, 22-in","$86,500 ","$1,800 ",,"$88,300 ",341.0
+"2023 Rivian R1S DM AWD, Max Pack, AT 20-in","$97,600 ","$1,800 ",,"$99,400 ",355.0
+"2023 Rivian R1S DM AWD, Max Pack, 21-in","$94,000 ","$1,800 ",,"$95,800 ",400.0
+"2023 Rivian R1S DM AWD, Max Pack, 22-in","$96,500 ","$1,800 ",,"$98,300 ",380.0
+"2023 Rivian R1S P. DM AWD, Large P, AT 20-in","$92,600 ","$1,800 ",,"$94,400 ",307.0
+"2023 Rivian R1S P. DM AWD, Large P., 21-in","$89,000 ","$1,800 ",,"$90,800 ",352.0
+"2023 Rivian R1S P. DM AWD, Large P., 22-in","$91,500 ","$1,800 ",,"$93,300 ",341.0
+"2023 Rivian R1S P. DM AWD, Max P., AT 20-in","$102,600 ","$1,800 ",,"$104,400 ",355.0
+"2023 Rivian R1S P. DM AWD, Max P., 21-in","$99,000 ","$1,800 ",,"$100,800 ",400.0
+"2023 Rivian R1S P. DM AWD, Max P., 22-in","$101,500 ","$1,800 ",,"$103,300 ",380.0
+"2023 Rivian R1S QM AWD, Large Pack, AT 20-in","$95,600 ","$1,800 ",,"$97,400 ",274.0
+"2023 Rivian R1S QM AWD, Large Pack, 21-in","$92,000 ","$1,800 ",,"$93,800 ",321.0
+"2023 Rivian R1S QM AWD, Large Pack, 22-in","$94,500 ","$1,800 ",,"$96,300 ",303.0
+"2023 Rivian R1T DM AWD, Std Pack, 21-in","$73,000 ","$1,800 ","$3,750 ","$71,050 ",270.0
+"2023 Rivian R1T DM AWD, Std Pack, 22-in","$75,500 ","$1,800 ","$3,750 ","$73,550 ",
+"2023 Rivian R1T DM AWD, Large Pack, AT 20-in","$82,500 ","$1,800 ",,"$84,300 ",307.0
+"2023 Rivian R1T DM AWD, Large Pack, 21-in","$79,000 ","$1,800 ","$3,750 ","$77,050 ",352.0
+"2023 Rivian R1T DM AWD, Large Pack, 22-in","$81,500 ","$1,800 ",,"$83,300 ",341.0
+"2023 Rivian R1T DM AWD, Max Pack, AT 20-in","$92,850 ","$1,800 ",,"$94,650 ",355.0
+"2023 Rivian R1T DM AWD, Max Pack, 21-in","$89,000 ","$1,800 ",,"$90,800 ",410.0
+"2023 Rivian R1T DM AWD, Max Pack, 22-in","$91,500 ","$1,800 ",,"$93,300 ",380.0
+"2023 Rivian R1T P. DM AWD, Large P, AT 20-in","$87,850 ","$1,800 ",,"$89,650 ",307.0
+"2023 Rivian R1T P. DM AWD, Large P., 21-in","$84,000 ","$1,800 ",,"$85,800 ",352.0
+"2023 Rivian R1T P. DM AWD, Large P., 22-in","$86,500 ","$1,800 ",,"$88,300 ",341.0
+"2023 Rivian R1T P. DM AWD, Max P., AT 20-in","$97,850 ","$1,800 ",,"$99,650 ",355.0
+"2023 Rivian R1T P. DM AWD, Max P., 21-in","$94,000 ","$1,800 ",,"$95,800 ",410.0
+"2023 Rivian R1T P. DM AWD, Max P., 22-in","$96,500 ","$1,800 ",,"$98,300 ",380.0
+"2023 Rivian R1T QM AWD, Large Pack, AT 20-in","$90,850 ","$1,800 ",,"$92,650 ",274.0
+"2023 Rivian R1T QM AWD, Large Pack, 21-in","$87,000 ","$1,800 ",,"$88,800 ",328.0
+"2023 Rivian R1T QM AWD, Large Pack, 22-in","$89,500 ","$1,800 ",,"$91,300 ",303.0
+2024 Rolls-Royce Spectre 22-in,"$420,000 ","$2,750 ",,"$422,750 ",291.0
+2024 Subaru Solterra Premium AWD 18-in,"$44,995 ","$1,345 ",,"$46,340 ",227.0
+2024 Subaru Solterra Limited AWD 20-in,"$48,495 ","$1,345 ",,"$49,840 ",222.0
+2024 Subaru Solterra Touring AWD 20-in,"$51,995 ","$1,345 ",,"$53,340 ",222.0
+2025 Tesla Cybertruck RWD,"$60,990*",,,"$60,990 ",250.0
+2024 Tesla Cybertruck AWD 20-in,"$79,990*","$2,245 ",,"$82,235 ",340.0
+2024 Tesla Cybertruck AWD AT,"$79,990*","$2,245 ",,"$82,235 ",318.0
+2024 Tesla Cybertruck AWD (RE) 20-in,"$95,990*","$2,245 ",,"$98,235 ",470.0
+2024 Tesla Cybertruck AWD (FS) AT,"$99,990*","$2,245 ",,"$102,235 ",318.0
+"2024 Tesla Cybertruck AWD (RE, FS) AT","$115,990*","$2,245 ",,"$118,235 ",470.0
+2024 Tesla Cybertruck Cyberbeast 20-in,"$99,990*","$2,245 ",,"$102,235 ",320.0
+2024 Tesla Cybertruck Cyberbeast AT,"$99,990*","$2,245 ",,"$102,235 ",301.0
+2024 Tesla Cybertruck Cyberbeast (RE) 20-in,"$115,990*","$2,245 ",,"$118,235 ",440.0
+2024 Tesla Cybertruck Cyberbeast (FS) AT,"$119,990*","$2,245 ",,"$122,235 ",301.0
+"2024 Tesla Cybertruck Cyberbeast (RE, FS) AT","$135,990*","$2,245 ",,"$138,235 ",440.0
+2024 Tesla Model 3 RWD 18-in,"$38,990 ","$1,640 ",,"$40,630 ",272.0
+2024 Tesla Model 3 RWD 19-in,"$40,490 ","$1,640 ",,"$42,130 ",248.0
+2024 Tesla Model 3 Long Range AWD 18-in,"$46,990 ","$1,640 ",,"$48,630 ",341.0
+2024 Tesla Model 3 Long Range AWD 19-in,"$48,490 ","$1,640 ",,"$50,130 ",305.0
+2024 Tesla Model S LR AWD 19-in,"$74,990 ","$1,640 ",,"$76,630 ",405.0
+2024 Tesla Model S LR AWD 21-in,"$79,490 ","$1,640 ",,"$81,130 ",382.0
+2024 Tesla Model S Plaid 19-in,"$89,990 ","$1,640 ",,"$91,630 ",359.0
+2024 Tesla Model S Plaid 21-in,"$94,490 ","$1,640 ",,"$96,130 ",320.0
+2024 Tesla Model X LR AWD 20-in,"$79,990 ","$1,640 ","$7,500 ","$74,130 ",335.0
+2024 Tesla Model X LR AWD 22-in,"$85,490 ","$1,640 ",,"$87,130 ",322.0
+2024 Tesla Model X LR AWD (6 seat) 20-in,"$86,490 ","$1,640 ",,"$88,130 ",335.0
+2024 Tesla Model X LR AWD (6 seat) 22-in,"$91,990 ","$1,640 ",,"$93,630 ",322.0
+2024 Tesla Model X LR AWD (7 seat) 20-in,"$83,490 ","$1,640 ",,"$85,130 ",335.0
+2024 Tesla Model X LR AWD (7 seat) 22-in,"$88,990 ","$1,640 ",,"$90,630 ",322.0
+2024 Tesla Model X Plaid (6 seat) 20-in,"$94,990 ","$1,640 ",,"$96,630 ",326.0
+2024 Tesla Model X Plaid (6 seat) 22-in,"$100,490 ","$1,640 ",,"$102,130 ",300.0
+2024 Tesla Model Y RWD 19-in,"$43,990 ","$1,640 ","$7,500 ","$38,130 ",260.0
+2024 Tesla Model Y RWD 20-in,"$45,990 ","$1,640 ","$7,500 ","$40,130 ",242.0
+2024 Tesla Model Y Long Range AWD 19-in,"$48,990 ","$1,640 ","$7,500 ","$43,130 ",310.0
+2024 Tesla Model Y Long Range AWD 20-in,"$50,990 ","$1,640 ","$7,500 ","$45,130 ",292.0
+2024 Tesla Model Y Perf. LR AWD 21-in,"$52,490 ","$1,640 ","$7,500 ","$46,630 ",285.0
+2024 Toyota bZ4X XLE FWD 18-in,"$43,070 ","$1,350 ",,"$44,420 ",252.0
+2024 Toyota bZ4X Limited FWD 20-in,"$47,180 ","$1,350 ",,"$48,530 ",236.0
+2024 Toyota bZ4X XLE AWD 18-in,"$45,150 ","$1,350 ",,"$46,500 ",228.0
+2024 Toyota bZ4X Limited AWD 20-in,"$49,260 ","$1,350 ",,"$50,610 ",222.0
+2023 VinFast VF 8 Standard Edition Eco 19-in,"$46,000 ","$1,200 ",,"$47,200 ",264.0
+2023 VinFast VF 8 Standard Edition Plus 20-in,"$51,800 ","$1,200 ",,"$53,000 ",243.0
+2024 VinFast VF 9 Eco (7 seat) 20-in,"$79,800*",,,"$79,800 ",330.0
+2024 VinFast VF 9 Plus (7 or 6 seat) 21-in,"$85,800*",,,"$85,800 ",291.0
+2023 Volkswagen ID.4 Standard 19-in,"$38,995 ","$1,295 ","$7,500 ","$32,790 ",209.0
+2023 Volkswagen ID.4 Pro 19-in,"$43,995 ","$1,295 ","$7,500 ","$37,790 ",275.0
+2023 Volkswagen ID.4 S 20-in,"$43,995 ","$1,295 ","$7,500 ","$37,790 ",209.0
+2023 Volkswagen ID.4 Pro S 20-in,"$48,995 ","$1,295 ","$7,500 ","$42,790 ",275.0
+2023 Volkswagen ID.4 AWD Pro 19-in,"$47,795 ","$1,295 ","$7,500 ","$41,590 ",255.0
+2023 Volkswagen ID.4 AWD Pro S 20-in,"$52,795 ","$1,295 ","$7,500 ","$46,590 ",255.0
+2024 Volvo C40 Recharge RWD 19-in,"$53,600 ","$1,295 ",,"$54,895 ",297.0
+2024 Volvo C40 Recharge AWD 19-in,"$55,350 ","$1,295 ",,"$56,645 ",257.0
+2025 Volvo EX30 Single Motor Core RWD 18-in,"$34,950 ","$1,295 ",,"$36,245 ",275.0
+2025 Volvo EX30 Twin Motor Plus AWD 19-in,"$44,900 ","$1,295 ",,"$46,195 ",265.0
+2025 Volvo EX90 TM Plus (7 seat) AWD 20-in,"$76,695 ","$1,295 ",,"$77,990 ",300.0
+2025 Volvo EX90 TM Plus (6 seat) AWD 20-in,"$77,195 ","$1,295 ",,"$78,490 ",300.0
+2025 Volvo EX90 TM Ultra (7 seat) AWD 21-in,"$81,045 ","$1,295 ",,"$82,340 ",300.0
+2025 Volvo EX90 TM Ultra (6 seat) AWD 21-in,"$81,545 ","$1,295 ",,"$82,840 ",300.0
+2025 Volvo EX90 TM P. Plus (7 seat) AWD 20-in,"$81,695 ","$1,295 ",,"$82,990 ",300.0
+2025 Volvo EX90 TM P. Plus (6 seat) AWD 20-in,"$82,195 ","$1,295 ",,"$83,490 ",300.0
+2025 Volvo EX90 TM P. Ultra (7 seat) AWD 21-in,"$86,045 ","$1,295 ",,"$87,340 ",300.0
+2025 Volvo EX90 TM P. Ultra (6 seat) AWD 21-in,"$86,545 ","$1,295 ",,"$87,840 ",300.0
+2024 Volvo XC40 Recharge RWD 19-in,"$52,450 ","$1,295 ",,"$53,745 ",293.0
+2024 Volvo XC40 Recharge AWD 19-in,"$54,200 ","$1,295 ",,"$55,495 ",254.0
